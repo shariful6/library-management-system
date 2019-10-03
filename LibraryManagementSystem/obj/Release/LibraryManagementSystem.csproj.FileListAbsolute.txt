@@ -1,0 +1,11 @@
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe.config
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.pdb
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Form1.resources
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Form2.resources
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Main.resources
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.Properties.Resources.resources
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csproj.GenerateResource.Cache
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.exe
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.pdb
+G:\Shariful\Visual studio project\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csprojResolveAssemblyReference.cache
